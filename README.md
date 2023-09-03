@@ -1,1 +1,1 @@
-# SneakersApp
+# SneakerApp
